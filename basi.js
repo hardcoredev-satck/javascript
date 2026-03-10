@@ -1,4 +1,4 @@
-/*//q1 identfy input if it is alphabet number or a special charachter we used ternary operations and if else 
+//q1 identfy input if it is alphabet number or a special charachter we used ternary operations and if else 
 
 let charr = prompt("enter something single digit:");
 let result = !charr ?//condition
@@ -9,12 +9,12 @@ let result = !charr ?//condition
    
        "number" : "special charr";
 
-alert(result);*/
+alert(result);
 
 /*Check if a year is a leap year.
 normal year 365 days feb 28 days leap year 366 days 1 extra day of feb 29 comes 1 time between 4 yrs */
 
-/*let leap = prompt("enter year:");
+let leap = prompt("enter year:");
 
 if (!leap){
     alert("dont press enter ples input soe value")
@@ -28,11 +28,11 @@ else if ((leap%400===0 )||leap%4===0  && leap%100 != 0)
 }else {
   alert("not leap year");
 }
-*/
+
 
 /* Convert number (0–99) to words.*/
 
-/*let num = prompt("enter any num b/w 0 to99:");
+let num = prompt("enter any num b/w 0 to99:");
 let storageNum = ["zero", "one", "two", "three ", "four", "five", "Six", "seven", "eight", "nine ", "ten", "eleven",
     "twelve", "thirteen", "fourteen", "fifteen ", "Sixteen", "seventeen", "eighteen ", "ninteen"]
 let t= [ "","","twenty","thirty","forty","fifty","sixty","seventy","eighty","ninety" ];
@@ -50,4 +50,4 @@ if (ones == 0 ){
 else{
     alert(t[tens]+storageNum[ones]);
 } 
-*/
+
