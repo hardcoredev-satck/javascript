@@ -1,5 +1,5 @@
 //Q .1 Nested salary + tax + bonus conditions
-let s= Number(prompt("entr you salry:"));
+/*let s= Number(prompt("entr you salry:"));
 let bonusHigh= 0.015 ;
 let bounsMid = 0.10;
 let bonuslow = 0.05;
@@ -35,7 +35,7 @@ if(Tempunit === "C" || Tempunit=== "c"){
 }else if (Tempunit === "F" || Tempunit === "f"){
     TempNumber = (TempNumber - 32) * 1.8;
     alert("this is your ans inn ", TempNumber);
-}
+}*/
     
 //Q.3 time difference
 //logic   
@@ -89,12 +89,23 @@ console.log(`${diffHH}:${diffMM}`);
 
 };*/
 
-//Q4 
+//Q4 chicken prob
+//
+/*let x= prompt("input for chicken");                         
+let y= prompt("input for dick");
+let z= prompt("input for total legs");        
 
+if (z%y === 0 && z%x===0){
+    alert("any");
 
+  }  else if(z%x===0){
+        alert("chiken")
+    } else if (z%y===0){
+        alert("dick");
+    } else{
+        alert("noneeee");
+    }
 
-
-    
 
 
 
