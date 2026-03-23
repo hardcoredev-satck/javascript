@@ -49,6 +49,7 @@ for(i = 1; i<= x; i++){
     }
 };
 alert(gcd);
+//done
 
 
 // find power x^y using loop
