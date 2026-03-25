@@ -1,4 +1,4 @@
-// Convert each digit to words
+/// Convert each digit to words
 // TASK 2: Calculate "time power" = (hour digits product) + (minute digits product)
 // TASK 3: If time power > 50, reverse the word order
 // TASK 4: Add "AM" or "PM" based on hour
