@@ -1,4 +1,4 @@
-/// Print squares of first 10 numbers.
+//// Print squares of first 10 numbers.
 let n=10;
 for( let i = 0; i<=10; i++){
     alert(i*i);
