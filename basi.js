@@ -1,4 +1,4 @@
-/////q1 identfy input if it is alphabet number or a special charachter we used ternary operations and if else 
+//////q1 identfy input if it is alphabet number or a special charachter we used ternary operations and if else 
 
 let charr = prompt("enter something single digit:");
 let result = !charr ?//condition
